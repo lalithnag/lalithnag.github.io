@@ -2799,11 +2799,12 @@ sub, sup {
     display: flex;
     line-height: 1;
     color: #fff;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 @media only screen and (min-width:50px) {
     .header .site-description {
-    font-size: 35px;
+    font-size: 30px;
+    margin-top: 15px;
 }
 }.header-links {
     margin: 10px;
@@ -2812,7 +2813,8 @@ sub, sup {
     color: #fff;
     text-decoration: none;
     font-size: 15px;
-    margin: 10px;
+    margin: 15px;
+    margin-top:15px;
 }
 @media only screen and (min-width:550px) {
     .header-links .link {
@@ -2827,6 +2829,7 @@ sub, sup {
 .down, .header-icons .icon {
     color: #fff;
     text-align: center;
+    margin-bottom: 15px;
 }
 .header-icons .icon {
     height: 20px;
@@ -2836,7 +2839,7 @@ sub, sup {
     transition: all .7s;
     width: 20px;
     font-size: 20px;
-    margin: 5px;
+    margin: 15px;
 }
 .header-icons .icon:active, .header-icons .icon:hover {
     color: #1a222c;
@@ -2996,5 +2999,19 @@ sub, sup {
 .footer a {
     text-decoration: none;
     margin: 0;
+    margin-top: 10px;
     color: #fff;
+}
+.footer .link {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 0;
+    font-size: 18px;
+    margin: 12px;
+    margin-top: 10px;
+}
+@media only screen and (min-width:550px) {
+    .header-links .link {
+    font-size: 20px;
+    margin-top: 10px;
 }

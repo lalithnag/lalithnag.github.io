@@ -1,13 +1,14 @@
 
 # Site settings
-title: Lalith nag
+title: Lalith Nag
 description: Computer vision | Deep Learning | Healthcare
 baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https://lalithnag.github.io/' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#url: 'https://lalithnag.github.io/' # production url
+url: 'https://localhost:4000' #development url
 
 # User settings
-username: Lalith nag
-user_description: Hello! 👋 I'm Lalith, an engineer focused on advancing healthcare through technology such as deep learning, computer vision for interventions & surgeries. Feel free to check out the stuff I do and get in touch. I am looking for an internship starting October 2018.
+username: Lalith Nag
+user_description: Hello! 👋 I'm Lalith, an engineer focused on advancing healthcare through technology such as deep learning, computer vision for interventions & surgeries. Feel free to check out the stuff I do and get in touch. I am available from July 2018, for an internship or thesis opportunity.
 user_title: Computer vision | Deep Learning | Healthcare
 email: lalith.sharan@ovgu.de
 twitter_username: lalithnag
