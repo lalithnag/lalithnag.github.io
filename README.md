@@ -1,4 +1,4 @@
-# Lalith Nag
+# Lalith Sharan
 
 I created this simple website, so I could talk about the work I do; connect with and learn from people who do cool stuff.
 
