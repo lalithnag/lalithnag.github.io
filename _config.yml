@@ -1,22 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Site settings
-title: Lalith Sharan
-description: Computer vision | Deep Learning | Healthcare
-baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https://lalithnag.github.io/' # production url
-#url: 'https://localhost:4000' #development url
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-# User settings
-username: Lalith
-user_description: Hello! 👋 I'm Lalith, a medical systems engineer focused on deep learning and computer vision for healthcare applications – in particular endoscopic image analysis. Feel free to check out the stuff I do and get in touch!
-user_title: Computer vision | Deep Learning | Healthcare
-email: reach.lalith@gmail.com
-twitter_username: onyourseat
-github_username:  lalithnag
-gplus_username:  lalithnag
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-# Google-analytics
-google-analytics:
-  id: ""
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-exclude: ['package.json', 'src' , 'node_modules']
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
