@@ -3,8 +3,8 @@
 title: Lalith Sharan
 description: Computer vision | Deep Learning | Healthcare
 baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https://lalithnag.github.io/' # production url
-#url: 'https://localhost:4000' #development url
+#url: 'https://lalithnag.github.io/' # production url
+url: 'https://localhost:4000' #development url
 
 # User settings
 username: Lalith
