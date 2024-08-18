@@ -3,7 +3,8 @@
 title: Lalith nag
 description: A blog about Lalith Nag
 baseurl: "" # the subpath of your site, e.g. /blog
-url: 'https://lalithnag.github.io/' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#url: 'https://lalithnag.github.io/' # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: ''
 
 # User settings
 username: Lalith nag
