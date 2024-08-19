@@ -79,9 +79,9 @@ order: 6
 <br> <span style="color: #808080; font-size: 14px;"> Apr '20 - Oct '20: <span style="color: black;">Master Thesis, </span>Antonia Stern </span>
 <div style="margin-bottom: 12px;"></div>
 
-#### Work as a trainer
+#### Work as an educator
 <p style="font-size: 14px;"> 
-In my previous job, I've worked as a trainer for corporate firms and universities in Tamil Nadu, India - something I loved doing. I had the pleasure of training people from various walks of life and age groups, ranging from software engineering for university students, advanced desktop skills for IT firms, factory staff, and senior executives. 
+In my previous job, I've worked as an empanelled trainer for corporate firms and universities in Tamil Nadu, India - something I loved doing. I had the pleasure of delivering training program for people from various walks of life and age groups, ranging from software engineering for university students, advanced desktop skills for IT firms, factory staff, and senior executives. 
 
 <figure>
     <img src="/assets/training.png" alt="Alt text">

@@ -70,14 +70,10 @@ order: 2
 }
 </style>
 
-#### Science slams 
-
-<span title="A science slam is a ten-minute talk to a general audience (kids, older people, people from completely different fields, etc.), where you are expected to present your research in the most engaging and humorous way possible. Originating from poetry slams, popular in Germany, you can think of it as 'TED-talk meets standup'." style="color: #808080">
-    <small> What is a science slam? </small>
-</span>
+#### Science slams <span title="A science slam is a ten-minute talk to a general audience (kids, older people, people from completely different fields, etc.), where you are expected to present your research in the most engaging and humorous way possible. Originating from poetry slams, popular in Germany, you can think of it as 'TED-talk meets standup'." style="color: #808080; margin-top: 10px; font-size: 14px;"> (?) </span>
 
 <p style="font-size: 14px;">
-As I stumbled upon this unique format, I have come to love it as a great tool for scientific dissemination. It is inspiring everytime, to get on-stage to a huge crowd that is eager to learn about how your research impacts their life. Over the last years, I have had the chance to <i>slam</i> across many beautiful locations in Germany, and in the process meet brilliant fellow researchers who are working on interesting topics. I can only recommend for you to go attend one in your city if you can!
+I stumbled upon this unique format a few years ago, and since then I have come to love it as a great tool for scientific dissemination. It is inspiring everytime, to get on-stage to a huge crowd that is eager to learn about how your research impacts their life. Over the last years, I have had the chance to <i>slam</i> across many beautiful locations in Germany, and in the process meet brilliant fellow researchers who are working on interesting topics. I can only recommend for you to go attend one in your city if you can!
 </p>
 
 <figure>
