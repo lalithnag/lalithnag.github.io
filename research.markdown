@@ -6,35 +6,9 @@ order: 5
 ---
 
 <p style="font-size: 14px;">
-My current research lies at the intersection of computer vision, deep learning, and cardiac surgery. In particular, the focus of my PhD is to use the computational tools at hand, to tackle important challenges in minimally invasive mitral valve repair, a surgery of the mitral valve of the heart. My cumulative dissertation is titled <i> Deep learning based image analysis for endoscopic minimally invasive mitral valve repair </i>.
+My current research lies at the intersection of computer vision, deep learning, and cardiac surgery. In particular, the focus of my PhD is to use the computational tools at hand, to tackle important challenges in minimally invasive mitral valve repair, a surgery of the mitral valve of the heart. My cumulative dissertation is titled <i> Deep learning based image analysis for endoscopic minimally invasive mitral valve repair </i>. To tackle the challenges of endoscopic mitral valve repair, the work of my PhD had three broad objectives:
 </p>
 <div style="margin-bottom: 20px;"></div>
-
-#### Overview of the work done in my PhD 
-
-<details>
-<summary> Why is this problem important? </summary>
-<div style="margin-bottom: 12px;"></div>
-
-<p style="font-size: 12px;"> 
-Minimally invasive mitral valve repair, which is the gold standard to treat mitral regurigtation is a surgery that is routinely performed with endoscopic assistance. Owing to restrited surgical ports, high surgical complexity, and a lack of quantitative information; successful outcomes are impacted by intraoperative decision making. For example, choosing the right size of ring prosthesis and artificial chordae tendinae is of paramount importance to successfully restore the valve to its normal function. Endoscopic imaging presents a rich source of information that can be leveraged using computational tools, to assist in surgical decision making, and provide insights that help tackle the complexity of this surgery. 
-</p>
-
-<figure>
-    <img src="/assets/mvr_evolution.png" alt="Alt text" width="600" height="auto" style="margin: 30px;">
-    <figcaption style="font-size: 12px;"> The evolution of mitral valve repair leading up to a totally endoscopic approach, with a look into the enabling technologies, developments in surgical repair techniques, and decrease in the surgical port size over time. 
-    <br>
-    <small> This image from my dissertation is provided with a CC-BY-NC-SA </small>
-    <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="CC BY-NC-SA" width="44" height="16">
-</figcaption>
-</figure>
-
-</details>
-
-<div style="margin-bottom: 20px;"></div>
-<p style="font-size: 14px;">
-To tackle the challenges of endoscopic mitral valve repair, the work of my PhD had three broad objectives:
-</p>
 
 <figure>
     <img src="/assets/phd_work_2.png" alt="Alt text" style="margin: 30px;">

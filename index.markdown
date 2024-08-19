@@ -9,7 +9,7 @@ layout: home
   <img src="/assets/lalith-potrait-circular.jpg" alt="Alt text" style="float: right; width: 250px; margin-top: 10px;">
   <p style="font-size: 15px; margin-top: 10px">
     Hi, there! My name is Lalith, I'm a researcher in the field of computer assisted surgeries, with a focus on computer vision. 
-    The focus of my PhD work is deep learning based endoscopic image analysis. Here, I worked on various tasks such as 3D reconstruction, depth estimation, landmark detection, unparied image translation, and segmentation. Besides training models, I love science communication - I have presented my research work as <a target="_blank" href="/talks/">science slams</a> in locations across Germany. In my free time, I love to nerd out on science history, mathematics, cook, or write. </p>
+    The focus of my PhD work is deep learning based endoscopic image analysis. Here, I worked on various tasks such as 3D reconstruction, depth estimation, landmark detection, unpaired image translation, and segmentation. Besides training models, I love science communication - I have presented my research work as <a target="_blank" href="/talks/">science slams</a> in locations across Germany. In my free time, I love to nerd out on science history, mathematics, cook, or write. </p>
     <div style="margin-bottom: 12px;"></div>
   <p style="font-size: 15px; margin-top: 10px">Check out my <a target="_blank" href="/research/">research</a> and <a target="_blank" href="/pubs/">publications</a>, or just get in touch with me for my resume or to know more!  
   </p>
@@ -61,5 +61,8 @@ layout: home
 <img src="/assets/icons8-github-24.png" alt="Github" style="width: 24px; height: 24px; vertical-align: middle;">
 </a>
 <a href="https://scholar.google.com/citations?hl=en&user=bdLgSAgAAAAJ&scilu=&scisig=ANI4uE0AAAAAZsDJsV5LhxdZ4Nn1sc5rzTXhTyc&gmla=AC6lMd-O5fQvrmRRJkS2sKL_vLX_zEk80gZiRtiDRNE0mi2fUEYRxsLYM6K6lt8NihQg5ttVXYE_TSWYnC1D5PCAh2RuUSJP9QQ0WsDi6Ho&sciund=3223323255075413780" target="_blank">
-<img src="/assets/icons8-google-scholar-24.png" alt="Google Schola" style="width: 24px; height: 24px; vertical-align: middle;">
+<img src="/assets/icons8-google-scholar-24.png" alt="Google Scholar" style="width: 24px; height: 24px; vertical-align: middle;">
+</a>
+<a href="https://orcid.org/0000-0003-0835-042X" target="_blank">
+<img src="/assets/icons8-orcid-32.png" alt="OrcID" style="width: 24px; height: 24px; vertical-align: middle;">
 </a>
