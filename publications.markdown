@@ -107,7 +107,7 @@ order: 7
 
 <ol style="font-size: 14px;">
   <li style="color: #808080">
-    Reinke A., Tizabi M.D., ..., <span style="color: black; text-decoration: underline;">Sharan, L.</span>, ..., Maier-Hein, L. (2023). <span style="color: black;"> Common limitations of image processing metrics: A picture story. </span> arXiv preprint arXiv:2104.05642 DOI: 10.48550/arXiv.2104.05642 (<a href="https://www.tandfonline.com/doi/full/10.1080/21681163.2022.2159535" target="_blank"> Pre-print </a>) <span title="Pitfalls in the use-case of suture point detection in particular, and more generally landmark/point detection." style="font-size: 10px"> Contribution </span>
+    Reinke A., Tizabi M.D., ..., <span style="color: black; text-decoration: underline;">Sharan, L.</span>, ..., Maier-Hein, L. (2023). <span style="color: black;"> Common limitations of image processing metrics: A picture story. </span> arXiv preprint arXiv:2104.05642 DOI: 10.48550/arXiv.2104.05642 (<a href="https://arxiv.org/abs/2104.05642v8" target="_blank"> Pre-print </a>) <span title="Pitfalls in the use-case of suture point detection in particular, and more generally landmark/point detection." style="font-size: 10px"> Contribution </span>
     <div style="margin-bottom: 20px;"></div>
   </li>
 </ol>

@@ -12,21 +12,25 @@ order: 1
   <img src="/assets/uniHD.jpeg" alt="Award Icon" style="width: 100px; height: auto; margin-right: 10px;">
   <!-- Content to the right -->
   <div style="flex-grow: 1;">
-    <span style="white-space: nowrap; margin-right: 10px;">Feb 2021-Oct 2024</span>
+    <span style="white-space: nowrap; margin-right: 10px;">Nov 2019-Oct 2024</span>
     <div style="flex-grow: 1;">
       Doctoral student, Dr. sc. hum.
-      <br> <span style="color: #808080;">
+      <br> <span>
         Medical Faculty, University Heidelberg, Germany </span>
+      <br> <span style="color: #808080;">
+      My work centres around 3D reconstruction of valve morphology using deep learning and sensor based methods, unpaired image translation, and landmark detection for surgical scene understanding. Additionally, I conceptualised and lead the development of smartMVR: a software tool to perform quantitative 3D analysis and augmented reality visualisations of the mitral valve. 
         <br> <span style="color: #808080;">
             Cumulative dissertation titled: <span style="color: black;"> Deep learning based image analysis for endoscopic minimally invasive mitral valve repair  
-            </span> </span>
+            </span> </span> </span>
     </div>
   </div>
 </div>
 
+
+
 <!-- Continuous Vertical Line -->
 <div style="position: relative; margin-left: 30px;">
-  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 60px; margin: 0; position: absolute; left: 0; top: -45px;">
+  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 140px; margin: 0; position: absolute; left: 0; top: -125px;">
 </div>
 <div style="margin-bottom: 20px;"></div>
 
@@ -37,10 +41,11 @@ order: 1
   <div style="flex-grow: 1;">
     <span style="white-space: nowrap; margin-right: 10px;">Nov 2019-Oct 2024</span>
     <div style="flex-grow: 1;">
-      Researcher, full-time employee, <a href="https://www.klinikum.uni-heidelberg.de/chirurgische-klinik-zentrum/herzchirurgie/forschung/ag-artificial-intelligence-in-cardiovascular-medicine" target="_blank" style="color: black; text-decoration: underline;"> AICM </a>
-      <br> <span style="color: #808080;">
+      Research Associate (full-time) <a href="https://www.klinikum.uni-heidelberg.de/chirurgische-klinik-zentrum/herzchirurgie/forschung/ag-artificial-intelligence-in-cardiovascular-medicine" target="_blank" style="color: black; text-decoration: underline;"> AICM </a>
+      <br> <span>
         Dept. of Cardiac Surgery, University Hospital Heidelberg, Germany </span>
       <br> <span style="color: #808080;">
+            In my role as a researcher, I developed novel deep learning methods for self-supervised depth estimation from stereo-endoscopic images, to generate realistic images from patient-specific heart valve replica, and for multi-view temporal landmark detection of suture points.  
             Research focus: <span style="color: black;"> Computer assisted surgeries, Computer vision, Deep learning, Endoscopic imaging, Depth sensing, 3D reconstruction, Tracking, Image generation  
             </span> </span>
     </div>
@@ -49,7 +54,7 @@ order: 1
 
 <!-- Continuous Vertical Line -->
 <div style="position: relative; margin-left: 30px;">
-  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 50px; margin: 0; position: absolute; left: 0; top: -30px;">
+  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 120px; margin: 0; position: absolute; left: 0; top: -95px;">
 </div>
 <div style="margin-bottom: 20px;"></div>
 
@@ -61,10 +66,11 @@ order: 1
     <span style="white-space: nowrap; margin-right: 10px;">Apr 2017-Oct 2019</span>
     <div style="flex-grow: 1;">
       Master student, M.Sc. Medical Systems Engineering
+      <br> <span>
+        Otto von Guericke University, Magdeburg, Germany </span>
       <br> <span style="color: #808080;">
-        Otto von Güricke University, Magdeburg, Germany </span>
-      <br> <span style="color: #808080;">
-            Specialisations: <span style="color: black;"> Interventional imaging, Deep learning, Image processing, Computer vision, Medical Computer Science. Grade: 1.4/4 (Max.: 1.0, Min. passing: 4.0). </span> 
+             Sparse (SLAM, FLANN, COLMAP) and dense (SGM, MonoDepth2, PSMNet, DispNet) multi-view reconstruction methods. Experience working with OpenCV, C++, PyTorch, Tensorflow. Acquisition, curation, and preparation of in-house endoscopic datasets, which were released as part of two publicly available challenges at MICCAI <a href="https://adaptor2021.github.io" target="_blank"> 2021 </a> and <a href="https://adaptor2022.github.io" target="_blank"> 2022 </a>. 
+             Specialisations: <span style="color: black;"> Interventional imaging, Deep learning, Image processing, Computer vision, Medical Computer Science. Grade: 1.4/4 (Max.: 1.0, Min. passing: 4.0). </span> 
      <br> <span style="color: #808080;">
         Master thesis titled: <span style="color: black;"> Depth estimation for stereo-endoscopy (Grade: 1.0) </span>
              </span> </span>
@@ -74,7 +80,7 @@ order: 1
 
 <!-- Continuous Vertical Line -->
 <div style="position: relative; margin-left: 30px;">
-  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 90px; margin: 0; position: absolute; left: 0; top: -70px;">
+  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 180px; margin: 0; position: absolute; left: 0; top: -160px;">
 </div>
 <div style="margin-bottom: 20px;"></div>
 
@@ -85,11 +91,11 @@ order: 1
   <div style="flex-grow: 1;">
     <span style="white-space: nowrap; margin-right: 10px;">Jan 2018-Sep 2018</span>
     <div style="flex-grow: 1;">
-      Student research assistant, Computer assisted Surgeries Working Group
+      Research assistant (student), Computer assisted Surgeries Working Group
+      <br> <span>
+        Otto von Guericke University, Magdeburg, Germany </span>
       <br> <span style="color: #808080;">
-        Otto von Güricke University, Magdeburg, Germany </span>
-      <br> <span style="color: #808080;">
-            Focus: <span style="color: black;"> Multi-modal MRI-US image registration, medical visualisation (MeVis Lab, 3D Slicer+python, Philips UroNav)
+            Worked on interventional imaging and navigation techniques, in particular fusion biopsy for prostate cancer screening, medical visualisation and analysis, 3D visualisation, 2D-3D image registration using MevisLab scripting, 3D Slicer, and ParaView. Focus: <span style="color: black;"> Multi-modal MRI-US image registration, medical visualisation (MeVis Lab, 3D Slicer+python, Philips UroNav)
             </span> </span>
     </div>
   </div>
@@ -97,7 +103,7 @@ order: 1
 
 <!-- Continuous Vertical Line -->
 <div style="position: relative; margin-left: 30px;">
-  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 60px; margin: 0; position: absolute; left: 0; top: -42px;">
+  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 120px; margin: 0; position: absolute; left: 0; top: -92px;">
 </div>
 <div style="margin-bottom: 20px;"></div>
 
@@ -108,8 +114,8 @@ order: 1
   <div style="flex-grow: 1;">
     <span style="white-space: nowrap; margin-right: 10px;">Nov 2014-Mar 2017</span>
     <div style="flex-grow: 1;">
-      Strategy, Educator, Business Analyst
-      <br> <span style="color: #808080;">
+      Educator, Business Analyst, Market research
+      <br> <span>
         eHelium advisory Services Pvt. Ltd., Chennai, India </span>
       <br> <span style="color: #808080;">
             In my start-up stint, I took up various roles: <span style="color: black;"> strategic and product initiatives </span> for driving growth of key-metrics, worked as an <span style="color: black;"> empanelled trainer </span> for multiple courses, understanding consumer pain points and translating them to <span style="color: black;"> product teams</span>, new product/service launches, and much more. 
@@ -132,7 +138,7 @@ order: 1
     <span style="white-space: nowrap; margin-right: 10px;">Jun 2010-May 2014</span>
     <div style="flex-grow: 1;">
       Bachelor student, B.E. Biomedical Engineering
-      <br> <span style="color: #808080;">
+      <br> <span>
         Manipal University, Karnataka, India </span>
       <br> <span style="color: #808080;">
             Specialisations: <span style="color: black;"> Medical imaging and Computer Vision, Biomedical Signal Processing. Grade: 8.69/10 (Max.: 10.0, Min. passing: 5.0)
@@ -150,7 +156,7 @@ order: 1
   <span style="white-space: nowrap; margin-right: 10px; color: #808080;">Focus areas</span>
   <div style="flex-grow: 1;">
    <span>
-    Deep learning, Computer sision, Data science, 3D reconstruction, Depth estimation, Landmark detection, Segmentation, Generative AI, Domain adaptation, Image generation, Data visualization, Explainable AI, Multi-modal registration, Tracking, Depth sensors. 
+    Deep learning, Computer vision, Data science, 3D reconstruction, Depth estimation, Landmark detection, Segmentation, Generative AI, Domain adaptation, Image generation, Data visualization, Explainable AI, Multi-modal registration, Tracking, Depth sensors. 
    </span>
   </div>
 </div>
@@ -217,7 +223,7 @@ order: 1
 <div style="margin-bottom: 12px;"></div>
 
  <div style="display: flex; font-size: 14px;">
-  <span style="white-space: nowrap; margin-right: 10px;">2013-'14</span>
+  <span style="white-space: nowrap; margin-right: 10px;">Jan 2014</span>
   <div style="flex-grow: 1;">
     All Round Excellence in Academics (AREA) Award
     <br> <span style="color: #808080;">
@@ -231,7 +237,7 @@ order: 1
   <div style="flex-grow: 1;">
     100% Freeship for undergraduate study
     <br> <span style="color: #808080;">
-      Awarded by Manipal University, Karnataka, India for outstanding performance in the All India admission test.</span>
+      Awarded by Manipal University, India for outstanding performance in the All India admission test.</span>
   </div>
 </div>
 <div style="margin-bottom: 20px;"></div>
