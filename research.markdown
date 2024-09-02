@@ -35,7 +35,7 @@ My current research lies at the intersection of computer vision, deep learning, 
 <li> An extended clean stereo-endoscopic dataset from the intraoperative and surgical simulator domains was curated and publicly released to the community, for a novel view synthesis task as part of another publicly organised challenge (<a target="_blank" href="https://adaptor2022.github.io">AdaptOR 2022</a>) at <a target="_blank" href="https://conferences.miccai.org/2022/en/">MICCAI 2022</a>.</li>
 <div style="margin-bottom: 12px;"></div>
 
-<li> I was part of various scientific outreach activities - I presented my research to a cumulative general audience of 3000+, in the form of <a target="_blank" href="/talks/">science slams</a>. </li>
+<li> I was part of various scientific outreach activities - I presented my research to a cumulative general audience of 4000+, in the form of <a target="_blank" href="/talks/">science slams</a>. </li>
 </ul>
 <div style="margin-bottom: 20px;"></div>
 
