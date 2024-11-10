@@ -84,22 +84,9 @@ I stumbled upon this unique format a few years ago, and since then I have come t
 </figure>
 
 <p style="color: #808080; font-size: 14px;"> Oct 2024 - Stuttgart, 
-<a href="https://www.science-slam.com/termine/stuttgart/theaterhaus-stuttgart-10-oktober-2024/" target="_blank" style="color: #808080; text-decoration: underline;" dec> Vorentschied Süd - Deutsche Science Slam Meisterschaft 2024 </a> (Wish me luck!) 
-<br> <span style="color: black;"> Here's one of my recent slams in Heidelberg, which won first place: </span> </p>
+<a href="https://www.science-slam.com/termine/stuttgart/theaterhaus-stuttgart-10-oktober-2024/" target="_blank" style="color: #808080; text-decoration: underline;" dec> Vorentschied Süd - Deutsche Science Slam Meisterschaft 2024 </a>
 
-<div style="margin-bottom: 20px;"></div>
-
-  <iframe width="560" height="315" 
-          src="https://www.youtube.com/embed/turNa25TbqI?si=gGKsS0yBqfS4qnHq" 
-          title="YouTube video player" frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen>
-  </iframe>
-
-
-<div style="margin-bottom: 20px;"></div>
-<p style="font-size: 14px;"> Get in touch with me, if you would like to engage me as a speaker. Anyway, back to academics, here's a selected list of my scientific/invited talks :) </p>
+<p style="font-size: 14px;"> Get in touch with me, if you would like to engage me as a speaker. Anyway, back to academics, here's a selected list of my scientific/invited talks :) </p> </p>
 
 #### Selected talks
 

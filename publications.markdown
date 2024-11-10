@@ -121,7 +121,7 @@ order: 7
   </li>
 
   <li style="color: #808080">
-    Grizelj, A., <span style="color: black; text-decoration: underline;">Sharan, L.</span>,  Karck, M., Simone, R. D., Romano, G., and Engelhardt, S. (2024). <span style="color: black;"> On-demand mitral valve morphometrics during surgical repair. </span> Current Directions in Biomedical Engineering (accepted). <span title="This paper presents features and a pilot study of our tool smartMVR" style="font-size: 10px"> TLDR </span>
+    Grizelj, A., <span style="color: black; text-decoration: underline;">Sharan, L.</span>,  Karck, M., Simone, R. D., Romano, G., and Engelhardt, S. (2024). <span style="color: black;"> On-demand mitral valve morphometrics during surgical repair. </span> Current Directions in Biomedical Engineering. <span title="This paper presents features and a pilot study of our tool smartMVR" style="font-size: 10px"> TLDR </span>
     <div style="margin-bottom: 20px;"></div>
   </li>
 

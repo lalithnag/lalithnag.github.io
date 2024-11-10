@@ -18,7 +18,7 @@ order: 1
       <br> <span>
         Medical Faculty, University Heidelberg, Germany </span>
       <br> <span style="color: #808080;">
-      My work centres around 3D reconstruction of valve morphology using deep learning and sensor based methods, unpaired image translation, and landmark detection for surgical scene understanding. Additionally, I conceptualised and lead the development of smartMVR: a software tool to perform quantitative 3D analysis and augmented reality visualisations of the mitral valve. 
+      My work centres around deep learning based image analysis, 3D reconstruction, unpaired image translation, and landmark detection for surgical scene understanding. Additionally, I conceptualised and lead the development of smartMVR: a software tool to perform quantitative 3D analysis and augmented reality visualisations of the mitral valve. 
         <br> <span style="color: #808080;">
             Cumulative dissertation titled: <span style="color: black;"> Deep learning based image analysis for endoscopic minimally invasive mitral valve repair  
             </span> </span> </span>

@@ -9,8 +9,8 @@ layout: home
 <div class="lalith-pic">
   <img src="/assets/lalith-potrait-circular.jpg" alt="Alt text" style="width: 300px; height: auto; margin-bottom:5px"></div>
   <div class="info">
-    <p style="margin-bottom: 10px;"> Hi, welcome to my website! I'm Lalith, a researcher in the field of computer assisted surgeries, with a focus on computer vision. My PhD centres on deep learning based endoscopic image analysis. Here, I worked on 3D reconstruction, depth estimation, landmark detection, unpaired image translation, and segmentation. </p>
-    <p> My work contributed to 15+ publications in high-impact journals (IEEE JBHI, IJCARS, Annals of Thoracic Surgery, EJCTS, pre-work for Nature) and conferences (MICCAI, SPIE, CURAC, BVM), garnering 4 poster awards and 2 invited talks. </p>
+    <p style="margin-bottom: 10px;"> Hi, welcome to my website! I'm Lalith, a researcher in the field of computer vision, with a focus on computer assisted surgeries. My PhD centres on deep learning based endoscopic image analysis. Here, I worked on unpaired image translation, landmark detection, 3D reconstruction, depth estimation, and segmentation. </p>
+    <p> My work contributed to 15+ publications in high-impact journals (IEEE JBHI, IJCARS, Annals of Thoracic Surgery, EJCTS, pre-work for Nature) and conferences (MICCAI, SPIE, CURAC, BVM), garnering 6 poster awards and invited talks. </p>
   </div> 
 </div>
 
@@ -41,16 +41,16 @@ layout: home
 </style>
 
 <div>
-Besides training models, I love science communication - I have presented my research work as <a target="_blank" href="/talks/">science slams</a> in locations across Germany for a cumulative audience of 4000+. In my free time, I love to nerd out on science history, mathematics, cook, or write. Check out my <a target="_blank" href="/research/">research</a> and <a target="_blank" href="/pubs/">publications</a>, or just get in touch with me for my resume or to know more!
+Besides training models, I love science communication - I have presented my research work as <a target="_blank" href="/talks/">science slams</a> in locations across Germany for a cumulative audience of 5000+, earning two nominations to the German Science Slam Championships 2023, 2024. In my free time, I love to nerd out on science history, mathematics, cook, or write. Check out my <a target="_blank" href="/research/">research</a> and <a target="_blank" href="/pubs/">publications</a>, or just get in touch with me for my resume or to know more!
 </div>
 <div style="margin-bottom: 12px;"></div>
 
 ## News 
 
  <div style="display: flex; font-size: 14px;">
-  <span style="white-space: nowrap; margin-right: 10px; color: black;">Aug 2024</span>
+  <span style="white-space: nowrap; margin-right: 10px; color: black;">Oct 2024</span>
   <div style="flex-grow: 1;">
-    <span style="color: #808080;"> The defense of my doctoral degree (Dr. sc. hum.), will take place on Wednesday, the 16th of October, 2024 in the <i>rigorosum</i> format. </span>
+    I have successfully defended my doctoral degree (Dr. sc. hum.) on the 16th of October, 2024! The PhD was graded with a <i>summa cum laude</i>, pending external review.
   </div>
  </div>
 <div style="margin-bottom: 12px;"></div>
