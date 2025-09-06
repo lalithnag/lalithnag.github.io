@@ -10,7 +10,7 @@ order: 1
 <div style="display: flex; font-size: 14px; align-items: flex-start; margin-bottom: 0px;">
   <!-- Image to the left -->
   <!--<img src="/assets/ihu-logo.jpeg" alt="Award Icon" style="width: 100px; height: auto; margin-right: 10px;"> -->
-  <img src="/assets/ihu-logo.jpeg" alt="Award Icon" style="height: 60px; width: auto; margin-right: 52px;">
+  <img src="/assets/ihu-logo.jpeg" alt="Award Icon" style="height: 60px; width: auto; margin-right: 56px;">
   <!-- Content to the right -->
   <div style="flex-grow: 1;">
     <span style="white-space: nowrap; margin-right: 10px;">Jul 2025-Present</span>
