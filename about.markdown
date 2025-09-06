@@ -9,7 +9,33 @@ order: 1
 
 <div style="display: flex; font-size: 14px; align-items: flex-start; margin-bottom: 0px;">
   <!-- Image to the left -->
-  <img src="/assets/uniHD.jpeg" alt="Award Icon" style="width: 100px; height: auto; margin-right: 10px;">
+  <!--<img src="/assets/ihu-logo.jpeg" alt="Award Icon" style="width: 100px; height: auto; margin-right: 10px;"> -->
+  <img src="/assets/ihu-logo.jpeg" alt="Award Icon" style="height: 60px; width: auto; margin-right: 52px;">
+  <!-- Content to the right -->
+  <div style="flex-grow: 1;">
+    <span style="white-space: nowrap; margin-right: 10px;">Jul 2025-Present</span>
+    <div style="flex-grow: 1;">
+      Postdoctoral Researcher
+      <br> <span>
+        CAMMA, IHU Strasbourg & University of Strasbourg </span>
+      <br> <span style="color: #808080;">
+      I work on large-scale, real-world surgical video analysis towars reducing surgical risk, improve safety and patient outcomes.Building on my PhD work, where I focused on cardiac surgeries, I now aim to expand the impact of surgical AI across multiple procedures and datasets. My work is funded by ERC, under the mentorship of Prof. Nicolas Padoy. 
+
+      <br><span style="color: #808080;">My current interest areas are: <span style="color: black;">Surgical vision-language models, medical foundation models, rare event detection, trustworthy and interpretable AI.</span></span></span>
+    </div>
+  </div>
+</div>
+
+<!-- Continuous Vertical Line -->
+<div style="position: relative; margin-left: 30px;">
+  <hr style="border: none; border-left: 2px solid #C8C8C8; height: 140px; margin: 0; position: absolute; left: 0; top: -125px;">
+</div>
+<div style="margin-bottom: 20px;"></div>
+
+<div style="display: flex; font-size: 14px; align-items: flex-start; margin-bottom: 0px;">
+  <!-- Image to the left -->
+  <!-- <img src="/assets/uniHD.jpeg" alt="Award Icon" style="width: 100px; height: auto; margin-right: 10px;"> -->
+  <img src="/assets/uniHD.jpeg" alt="Award Icon" style="height: 60px; width: auto; margin-right: 10px;">
   <!-- Content to the right -->
   <div style="flex-grow: 1;">
     <span style="white-space: nowrap; margin-right: 10px;">Nov 2019-Oct 2024</span>

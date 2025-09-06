@@ -57,7 +57,7 @@ plugins:
 
 header_pages:
   - index.markdown
-  - research.markdown
+  #- research.markdown
   - publications.markdown
   - talks.markdown
   - teaching.markdown
@@ -65,10 +65,6 @@ header_pages:
   #- contact.markdown
   #- resume.markdown
   
- 
-
-
-
 
 # Configuration options for Jekyll-Scholar
 scholar:
